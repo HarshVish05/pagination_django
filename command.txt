@@ -1,0 +1,5 @@
+virtualenv nameOfEnv ---- To create the virtual environment
+
+nameOfEnv/scripts/activate ---- To activate the environment
+
+deactivate -------- To deactivate the environment
